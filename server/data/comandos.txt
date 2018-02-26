@@ -1,0 +1,16 @@
+Importar la base de datos para procesarla.
+$ mongoimport --db englishBD --collection words --jsonArray --file "C:\wamp\www\english-bd\data\origin-bd.json"
+
+Actualizo las urls, quito el path:
+PATH: ejemplo C:\\wamp\\www\\english-bd\\mp3\\ (revisar en la bd el campo mp3).
+
+db.words.find({}).forEach(function(doc){
+
+  var updated_url = doc.mp3.replace(PATH,'');
+  db.getCollection('words').update({"_id":doc.id},{"$set":{"mp3":updated_url}});
+	
+});
+
+
+Exportar la base de datos, para backup:
+$ mongoexport --db englishBD --collection words --out "C:\wamp\www\english-bd\data\bd-backup.json"
