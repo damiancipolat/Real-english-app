@@ -1,0 +1,125 @@
+textarea {
+  width: 100%;
+  border: 1px solid #49BBF8;
+  border-radius: 4px;
+  padding: 5px;
+  font-size: 15px;
+  resize: none!important;
+}
+.token-word-disabled {
+  color: black;
+  border: 1px solid gray;
+  padding: 5px;
+  margin-right: 5px;
+}
+.token-word-disabled:hover {
+  background: white;
+}
+.token-word {
+  padding: 5px;
+  color: #80d0ff;
+  border: 1px solid #80d0ff;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.token-word a {
+  text-decoration: none;
+}
+.token-word:hover {
+  padding: 5px;
+  border: 1px solid #80d0ff;
+  background: #80d0ff;
+  color: white;
+}
+body {
+  background: #EDEDED;
+}
+.test {
+  background: red;
+  padding: 5px;
+}
+.voz-icon {
+  width: 30px;
+  margin-right: 10px;
+}
+.banner {
+  background: #0682ca;
+  color: #80d0ff;
+  border-bottom: 3px solid #09609c;
+  width: 100%;
+  padding: 10px;
+}
+.banner .title {
+  width: 100%;
+  padding-left: 10px;
+  margin: auto;
+}
+.form {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  background: white;
+  border-radius: 4px;
+}
+.form .title {
+  color: black;
+  padding-bottom: 10px;
+  border-bottom: 1px solid gray;
+  font-size: 20px;
+  font-family: 'tahoma';
+  font-weight: 'bold';
+}
+.form .title-error {
+  color: #a94442;
+  background: #f2dede;
+  padding: 10px;
+  border: 1px solid #a94442;
+  border-radius: 4px;
+  font-size: 20px;
+  font-family: 'tahoma';
+  font-weight: 'bold';
+}
+.form .tokens-div {
+  border: 1px solid #49BBF8;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 5px;
+}
+.form .detail-error {
+  color: #a94442;
+  padding: 3px;
+  font-family: 'arial';
+  font-size: 13px;
+}
+.form .title-single {
+  color: black;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-family: 'tahoma';
+  font-weight: 'bold';
+}
+.form .detail {
+  color: gray;
+  padding: 3px;
+  font-family: 'arial';
+  font-size: 13px;
+  margin-top: 10px;
+}
+.form .text-panel {
+  margin-top: 10px;
+}
+.form .proc-btn {
+  margin-top: 10px;
+  color: white;
+  -webkit-border-radius: 25px;
+  background-color: #efac0b;
+  border: 1px solid #efac0b;
+  padding: 10px;
+  background: #efac0b;
+}
+.form .proc-btn:hover {
+  background: #0682ca;
+  color: white;
+}
