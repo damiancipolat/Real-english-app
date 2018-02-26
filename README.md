@@ -16,10 +16,7 @@ palabras y urls con archivos mp3 de 7 diccionarios online:
 
 El total de palabras procesadas para este proyecto fueron 119376, esto signfica que hay archivos de audio de todas ellas.
 
-Para hacer el proceso de descarga de cada archivo y validación de las urls se uso el lenguaje PHP ya que para ejecución de tareas 
-
-sincronas es más sencillo para este caso que node.js que debemos hacerlas asincroncias, el tiempo total de procesamiento en una 
-
+Para hacer el proceso de descarga de cada archivo y validación de las urls se uso el lenguaje PHP ya que para ejecución de tareas sincronas es más sencillo para este caso que node.js que debemos hacerlas asincroncias, el tiempo total de procesamiento en una 
 computadora de cpu Intel I5 de 4GB de RAM fueron de 3 días.
 
 [English-words-pronunciation-mp3-audio-download]:https://github.com/nathanielove/English-words-pronunciation-mp3-audio-download
