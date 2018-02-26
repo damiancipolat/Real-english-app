@@ -71,4 +71,4 @@ $ cd /client/
 $ npm install
 $ npm run bundle
 ```
-Luego ir a http://127.0.0.1
+Luego ir a http://127.0.0.1/index.html
