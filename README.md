@@ -1,6 +1,5 @@
 # Real english Api / Web
 Este proyecto consiste en ser una plataforma para aprendizaje de la pronuciación de palabras en ingles, esta creada con la tecnologias 
-
 node.js / React.js / Redux / Mongodb.
 
 Se toma como referencia el proyecto **[English-words-pronunciation-mp3-audio-download]** de @nathanielove, que armo una recopílación de 
