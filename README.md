@@ -63,7 +63,7 @@ $ npm install
 $ npm start
 ```
 
-### Web Server:
+### UI web:
 Para transpilar el proyecto.
 
 ```sh
@@ -71,3 +71,4 @@ $ cd /client/
 $ npm install
 $ npm run bundle
 ```
+Luego ir a http://127.0.0.1
