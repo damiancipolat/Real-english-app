@@ -2,6 +2,8 @@
 Este proyecto consiste en ser una plataforma para aprendizaje de la pronuciación de palabras en ingles, esta creada con la tecnologias 
 node.js / React.js / Redux / Mongodb.
 
+![N|Solid](http://damiancipolat.com/webFiles/real1.png)
+
 Se toma como referencia el proyecto **[English-words-pronunciation-mp3-audio-download]** de @nathanielove, que armo una recopílación de 
 
 palabras y urls con archivos mp3 de 7 diccionarios online:
