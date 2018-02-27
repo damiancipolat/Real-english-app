@@ -5,7 +5,10 @@ node.js / React.js / Redux / Mongodb.
 ![N|Solid](http://damiancipolat.com/webFiles/real1.png)
 
 **Soporta versión mobile**:
+
 ![N|Solid](http://damiancipolat.com/webFiles/real2.jpeg)
+
+
 ![N|Solid](http://damiancipolat.com/webFiles/real3.jpeg)
 
 Se toma como referencia el proyecto **[English-words-pronunciation-mp3-audio-download]** de @nathanielove, que armo una recopílación de 
